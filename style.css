@@ -1,6 +1,6 @@
 @font-face {
-	font-family: "resot";
-	src: url("assets/ResotE-Rose-89c1.woff");
+	font-family: "alex";
+	src: url("assets/AlexBrush-Regular.ttf");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -13,7 +13,7 @@ body{
 .type1{
 	width: 80%;
 	display: block;
-	margin: 0px auto;
+	margin: 50px auto;
 }
 .type2{
 	width: 80%;
@@ -23,8 +23,9 @@ body{
 	transform: translate(-50%,-50%);
 }
 .p1{
-	font-family: resot, ResotE-Rose-89c1;
-	font-size: xx-large;
+	font-family: alex, AlexBrush-Regular;
+	font-size: 65px;
 	color: white;
 	text-align: center;
+	margin-top: 25px;
 }
